@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "",
+    "database": "item_soft_delete",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "",
+    "database": "item_soft_delete",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "",
+    "database": "item_soft_delete",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
